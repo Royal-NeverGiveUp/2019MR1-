@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L6 Old Footprint=CD52 New Footprint=CD74
+Change Component Designator: OldDesignator=P9 NewDesignator=*1
+Change Net Name : Old Net Name=PA11 New Net Name=CAN_RX
+Change Net Name : Old Net Name=PA12 New Net Name=CAN_TX
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component *1 STM32F407
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component VIN Header 6
+Added Room: Name=2019Ö÷¿Ø°åv1.1

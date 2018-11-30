@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=6 NewDesignator=VIN
+Change Component Designator: OldDesignator=M_2 NewDesignator=M485_120
+Change Component Designator: OldDesignator=MC2 NewDesignator=MC34063
+Change Component Designator: OldDesignator=RX232 NewDesignator=M232
+Change Component Designator: OldDesignator=TPS2 NewDesignator=TPS
+Change Net Name : Old Net Name=Net6_A New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetM_2_1 New Net Name=NetM485_120_1
+Change Net Name : Old Net Name=NetMC2_5 New Net Name=NetMC34063_5
+Change Net Name : Old Net Name=NetMC2_8 New Net Name=NetMC34063_8
+Added Room: Name=2019Ö÷¿Ø°åv1.1

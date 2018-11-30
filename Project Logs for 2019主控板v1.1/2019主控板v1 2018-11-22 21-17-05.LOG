@@ -1,0 +1,13 @@
+Added Component: Designator=R100(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R100-2
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component R100 Res1
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component VIN Header 6
+Added Room: Name=2019Ö÷¿Ø°åv1.1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CANH Pin=*1-119
+Removed Pin From Net: NetName=CANL Pin=*1-120
+Removed Pin From Net: NetName=PA11 Pin=P5-1
+Removed Pin From Net: NetName=PA12 Pin=P6-1
+Added Component: Designator=TJA(TJA1050)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA12 Pin=TJA-1
+Added Pin To Net: NetName=GND Pin=TJA-2
+Added Pin To Net: NetName=5V Pin=TJA-3
+Added Pin To Net: NetName=PA11 Pin=TJA-4
+Added Pin To Net: NetName=CANL Pin=TJA-6
+Added Pin To Net: NetName=CANH Pin=TJA-7
+Added Pin To Net: NetName=GND Pin=TJA-8
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component TJA TJA1050
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component VIN Header 6
+Added Room: Name=2019Ö÷¿Ø°åv1.1

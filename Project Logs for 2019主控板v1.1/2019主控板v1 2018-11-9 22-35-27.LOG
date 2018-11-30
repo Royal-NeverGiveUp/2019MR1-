@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=7 NewDesignator=5V
+Change Component Designator: OldDesignator=8 NewDesignator=3V3
+Change Component Designator: OldDesignator=10 NewDesignator=GND
+Change Component Designator: OldDesignator=ADC2 NewDesignator=ADC
+Change Component Designator: OldDesignator=M5 NewDesignator=M_232
+Change Component Designator: OldDesignator=M6 NewDesignator=M_485
+Change Component Designator: OldDesignator=M7 NewDesignator=M232
+Change Component Designator: OldDesignator=M8 NewDesignator=M485
+Change Component Designator: OldDesignator=P10 NewDesignator=SPI
+Change Component Designator: OldDesignator=P12 NewDesignator=I2C
+Change Component Designator: OldDesignator=P13 NewDesignator=UART2
+Change Component Designator: OldDesignator=P14 NewDesignator=UART1
+Change Component Designator: OldDesignator=P? NewDesignator=VIN
+Added Room: Name=2019Ö÷¿Ø°åv1.1

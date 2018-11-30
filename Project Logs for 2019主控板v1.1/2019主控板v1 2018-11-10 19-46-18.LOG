@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PG14 Pin=P8-5
+Removed Pin From Net: NetName=PG12 Pin=P8-6
+Removed Pin From Net: NetName=PG10 Pin=P8-7
+Removed Pin From Net: NetName=PD7 Pin=P8-8
+Removed Pin From Net: NetName=PD3 Pin=P8-9
+Removed Pin From Net: NetName=PD1 Pin=P8-10
+Removed Pin From Net: NetName=PC12 Pin=P8-11
+Added Pin To Net: NetName=PG14 Pin=P8-4
+Added Pin To Net: NetName=PG12 Pin=P8-5
+Added Pin To Net: NetName=PG10 Pin=P8-6
+Added Pin To Net: NetName=PD7 Pin=P8-7
+Added Pin To Net: NetName=PD3 Pin=P8-8
+Added Pin To Net: NetName=PD1 Pin=P8-9
+Added Pin To Net: NetName=PC12 Pin=P8-10
+Added Room: Name=2019Ö÷¿Ø°åv1.1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USART5_RX Pin=*1-67
+Removed Pin From Net: NetName=USART5_TX Pin=*1-68
+Removed Pin From Net: NetName=USART4_TX Pin=*1-115
+Removed Pin From Net: NetName=USART4_RX Pin=*1-116
+Added Pin To Net: NetName=USART4_RX Pin=*1-67
+Added Pin To Net: NetName=USART4_TX Pin=*1-68
+Added Pin To Net: NetName=USART5_TX Pin=*1-115
+Added Pin To Net: NetName=USART5_RX Pin=*1-116
+Added Room: Name=2019Ö÷¿Ø°åv1.1

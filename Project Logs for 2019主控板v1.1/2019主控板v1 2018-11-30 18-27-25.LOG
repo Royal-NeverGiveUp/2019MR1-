@@ -1,0 +1,110 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=2
+Change Component Designator: OldDesignator=5V NewDesignator=1
+Change Component Designator: OldDesignator=ADC NewDesignator=ADC1
+Change Component Designator: OldDesignator=ALL NewDesignator=ALL1
+Change Component Designator: OldDesignator=C47 NewDesignator=C1
+Change Component Designator: OldDesignator=C48 NewDesignator=C2
+Change Component Designator: OldDesignator=C49 NewDesignator=C3
+Change Component Designator: OldDesignator=C50 NewDesignator=C4
+Change Component Designator: OldDesignator=C51 NewDesignator=C5
+Change Component Designator: OldDesignator=C52 NewDesignator=C6
+Change Component Designator: OldDesignator=C53 NewDesignator=C7
+Change Component Designator: OldDesignator=C54 NewDesignator=C8
+Change Component Designator: OldDesignator=C55 NewDesignator=C9
+Change Component Designator: OldDesignator=C56 NewDesignator=C10
+Change Component Designator: OldDesignator=C57 NewDesignator=C11
+Change Component Designator: OldDesignator=C58 NewDesignator=C12
+Change Component Designator: OldDesignator=C59 NewDesignator=C13
+Change Component Designator: OldDesignator=C60 NewDesignator=C14
+Change Component Designator: OldDesignator=CAN NewDesignator=CAN1
+Change Component Designator: OldDesignator=D5 NewDesignator=D1
+Change Component Designator: OldDesignator=D6 NewDesignator=D2
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Designator: OldDesignator=L5 NewDesignator=L1
+Change Component Designator: OldDesignator=L6 NewDesignator=L2
+Change Component Designator: OldDesignator=M232 NewDesignator=M1
+Change Component Designator: OldDesignator=M485 NewDesignator=M3
+Change Component Designator: OldDesignator=M485_120 NewDesignator=M2
+Change Component Designator: OldDesignator=M_232 NewDesignator=M_1
+Change Component Designator: OldDesignator=M_485 NewDesignator=M_2
+Change Component Designator: OldDesignator=MC34063 NewDesignator=MC1
+Change Component Designator: OldDesignator=R32 NewDesignator=R1
+Change Component Designator: OldDesignator=R33 NewDesignator=R2
+Change Component Designator: OldDesignator=R35 NewDesignator=R4
+Change Component Designator: OldDesignator=R36 NewDesignator=R5
+Change Component Designator: OldDesignator=R37 NewDesignator=R6
+Change Component Designator: OldDesignator=R38 NewDesignator=R7
+Change Component Designator: OldDesignator=R39 NewDesignator=R8
+Change Component Designator: OldDesignator=R40 NewDesignator=R9
+Change Component Designator: OldDesignator=R41 NewDesignator=R10
+Change Component Designator: OldDesignator=R42 NewDesignator=R11
+Change Component Designator: OldDesignator=R43 NewDesignator=R12
+Change Component Designator: OldDesignator=R44 NewDesignator=R13
+Change Component Designator: OldDesignator=R45 NewDesignator=R14
+Change Component Designator: OldDesignator=R46 NewDesignator=R15
+Change Component Designator: OldDesignator=R47 NewDesignator=R16
+Change Component Designator: OldDesignator=R48 NewDesignator=R18
+Change Component Designator: OldDesignator=R49 NewDesignator=R19
+Change Component Designator: OldDesignator=R50 NewDesignator=R20
+Change Component Designator: OldDesignator=R51 NewDesignator=R21
+Change Component Designator: OldDesignator=R52 NewDesignator=R22
+Change Component Designator: OldDesignator=R100 NewDesignator=R17
+Change Component Designator: OldDesignator=SPI NewDesignator=SPI1
+Change Component Designator: OldDesignator=TJA NewDesignator=TJA1
+Change Component Designator: OldDesignator=TPS NewDesignator=TPS1
+Change Component Designator: OldDesignator=UART1 NewDesignator=UART2
+Change Component Designator: OldDesignator=UART2 NewDesignator=UART1
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN1
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN2
+Added Component: Designator=CAN_1(SIP2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NRF1(XH-2.54pin4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "*k¦¸"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=CAN_1-2
+Added Pin To Net: NetName=PGND Pin=NRF1-2
+Added Pin To Net: NetName=CANH Pin=NRF1-3
+Added Pin To Net: NetName=CANL Pin=NRF1-4
+Added Pin To Net: NetName=CANH Pin=R3-2
+Change Net Name : Old Net Name=NetC50_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC51_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC51_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC57_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC57_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC59_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC60_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetD5_A New Net Name=NetD1_A
+Change Net Name : Old Net Name=NetL5_2 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetM485_120_1 New Net Name=NetM2_1
+Change Net Name : Old Net Name=NetMC34063_5 New Net Name=NetMC1_5
+Change Net Name : Old Net Name=NetMC34063_8 New Net Name=NetMC1_8
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR47_1 New Net Name=NetR16_1
+Added Pin To Net: NetName=12V Pin=NRF1-1
+Added Net: Name=12V
+Added Pin To Net: NetName=NetCAN_1_1 Pin=CAN_1-1
+Added Pin To Net: NetName=NetCAN_1_1 Pin=R3-1
+Added Net: Name=NetCAN_1_1
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component CAN_1 Header 2
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component NRF1 Header 4
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component R3 120¦¸
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component VIN2 Header 6
+Added Room: Name=2019Ö÷¿Ø°åv1.1

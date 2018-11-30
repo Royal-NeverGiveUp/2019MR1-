@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PC2 Pin=*1-21
+Added Pin To Net: NetName=PC1 Pin=*1-21
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component ADC Header 4
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component GND Header 4
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component I2C Header 4
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component UART1 Header 4
+Added Room: Name=2019Ö÷¿Ø°åv1.1
