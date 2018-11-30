@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=UART1 NewDesignator=UART2
+Change Component Designator: OldDesignator=VIN2 NewDesignator=VIN
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component *1 STM32F407
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component P8 Header 12
+Added Room: Name=2019Ö÷¿Ø°åv1.1

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=UART1 NewDesignator=UART2
+Added Pin To Net: NetName=PA0 Pin=P1-12
+Added Pin To Net: NetName=PA2 Pin=*1-27
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=*1-28
+Added Net: Name=PA3
+Added Room: Name=2019Ö÷¿Ø°åv1.1

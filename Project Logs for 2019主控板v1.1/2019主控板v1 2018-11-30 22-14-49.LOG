@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=USART2_TX Pin=*1-27
+Removed Pin From Net: NetName=USART2_RX Pin=*1-28
+Removed Pin From Net: NetName=USART2_TX Pin=M_1-11
+Removed Pin From Net: NetName=USART2_RX Pin=M_1-12
+Removed Pin From Net: NetName=USART1_RX Pin=UART1-3
+Removed Pin From Net: NetName=USART1_TX Pin=UART1-4
+Added Pin To Net: NetName=USART2_TX Pin=*1-107
+Added Pin To Net: NetName=USART2_RX Pin=*1-108
+Added Pin To Net: NetName=USART1_TX Pin=M_1-11
+Added Pin To Net: NetName=USART1_RX Pin=M_1-12
+Added Pin To Net: NetName=USART2_RX Pin=UART1-3
+Added Pin To Net: NetName=USART2_TX Pin=UART1-4
+Added Room: Name=2019Ö÷¿Ø°åv1.1

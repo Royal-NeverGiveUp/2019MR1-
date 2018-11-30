@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=485_A NewDesignator=M3
+Change Component Designator: OldDesignator=ADC1 NewDesignator=ADC
+Change Component Designator: OldDesignator=CANH NewDesignator=CAN1
+Change Component Designator: OldDesignator=I1 NewDesignator=I2C
+Change Component Designator: OldDesignator=M2 NewDesignator=485_120
+Change Component Designator: OldDesignator=RX NewDesignator=M1
+Change Component Designator: OldDesignator=SPI1 NewDesignator=SPI
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN2
+Change Net Name : Old Net Name=NetM2_1 New Net Name=Net485_120_1
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.1 Member=Component 3.3V Header 6
+Added Room: Name=2019Ö÷¿Ø°åv1.1

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=CAN_1 NewDesignator=CAN_120
+Change Component Designator: OldDesignator=GND? NewDesignator=GND
+Change Net Name : Old Net Name=NetCAN_1_1 New Net Name=NetCAN_120_1
+Added Room: Name=2019Ö÷¿Ø°åv1.1

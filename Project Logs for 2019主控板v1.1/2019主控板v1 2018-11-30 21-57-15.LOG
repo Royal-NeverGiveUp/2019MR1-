@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=0 NewDesignator=*1
+Change Component Designator: OldDesignator=485_A NewDesignator=M3
+Change Component Designator: OldDesignator=ALL NewDesignator=ALL1
+Change Component Designator: OldDesignator=I2C1 NewDesignator=I2C
+Change Component Designator: OldDesignator=M_485 NewDesignator=M_1
+Change Component Designator: OldDesignator=RX NewDesignator=M1
+Change Component Designator: OldDesignator=SPI1 NewDesignator=SPI
+Change Component Designator: OldDesignator=UART1 NewDesignator=UART3
+Added Pin To Net: NetName=USART1_RX Pin=UART2-3
+Added Pin To Net: NetName=USART1_TX Pin=UART2-4
+Change Net Name : Old Net Name=USART3_RX New Net Name=USART2_RX
+Change Net Name : Old Net Name=USART3_TX New Net Name=USART2_TX
+Change Net Name : Old Net Name=USART4_RX New Net Name=USART6_RX
+Change Net Name : Old Net Name=USART4_TX New Net Name=USART6_TX
+Change Net Name : Old Net Name=USART5_RX New Net Name=USART3_RX
+Change Net Name : Old Net Name=USART5_TX New Net Name=USART3_TX
+Added Pin To Net: NetName=PD5 Pin=*1-107
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=*1-108
+Added Net: Name=PD6
+Added Room: Name=2019Ö÷¿Ø°åv1.1
