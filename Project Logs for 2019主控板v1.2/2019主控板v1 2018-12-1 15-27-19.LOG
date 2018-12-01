@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=485_120 NewDesignator=3
+Change Component Designator: OldDesignator=ADC NewDesignator=ADC1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=CAN_120 NewDesignator=CAN_1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Designator: OldDesignator=M3 NewDesignator=M2
+Change Component Designator: OldDesignator=SPI NewDesignator=SPI1
+Change Component Designator: OldDesignator=UART3 NewDesignator=UART1
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN2
+Added Component: Designator=C1(CAP-MLCC-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Change Net Name : Old Net Name=Net485_120_1 New Net Name=Net3_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetCAN_120_1 New Net Name=NetCAN_1_1
+Change Class Name : Old Net Name=2019Ö÷¿Ø°åv1.1 New Net Name=2019Ö÷¿Ø°åv1.2
+Added Member To Class: ClassName=2019Ö÷¿Ø°åv1.2 Member=Component C15 0.1¦ÌF
+Added Room: Name=2019Ö÷¿Ø°åv1.2
